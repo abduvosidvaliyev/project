@@ -150,7 +150,7 @@ nav input {
 
 .card-container {
     width: 95%;
-    height: 85%;
+    height: auto;
     padding: 20px 2% 0px 0px;
     display: flex;
     flex-wrap: wrap;
