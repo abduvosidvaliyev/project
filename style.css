@@ -166,7 +166,7 @@ nav input {
     right: 20px;
 }
 
-.card-container::-webkit-scrollbar-thumb {
+.right::-webkit-scrollbar-thumb {
     background: #bdbdbd;
     border-radius: 5px; 
 }
