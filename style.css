@@ -159,7 +159,7 @@ nav input {
     gap: 45px;
 }
 
-.card-container::-webkit-scrollbar {
+.right::-webkit-scrollbar {
     background: none;
     width: 5px;
     cursor: pointer;
