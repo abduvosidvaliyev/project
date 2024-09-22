@@ -163,6 +163,7 @@ nav input {
     background: none;
     width: 5px;
     cursor: pointer;
+    right: 20px;
 }
 
 .card-container::-webkit-scrollbar-thumb {
