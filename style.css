@@ -114,6 +114,7 @@ nav input {
     justify-content: flex-start;
     align-items: flex-start;
     gap: 15px;
+    overflow-y: scroll;
 }
 
 .nav {
@@ -156,7 +157,6 @@ nav input {
     justify-content: flex-start;
     align-items: flex-start;
     gap: 45px;
-    overflow-y: scroll;
 }
 
 .card-container::-webkit-scrollbar {
